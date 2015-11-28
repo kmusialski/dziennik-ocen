@@ -12,6 +12,7 @@ int main() {
     Subject matematyka = createSubject("matematyka");
     Subject polski = createSubject("polski");
     Subject fizyka = createSubject("fizyka");
+    Subject fizyka2 = createSubject("fizyka2"); // tymczasowe
 
     matematyka.printSubject();
     polski.printSubject();
